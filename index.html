@@ -15,23 +15,29 @@
       </div>
       <div class="create-pizza">
         <form id="topping-selection">
-          <select id="toppings">
-            <option value="cheap">Pepperoni</option>
-            <option value="mix">Olives</option>
-            <option value="spendy">Sausage</option>
-          </select>
+          <div class="form-control">
+            <select id="toppings">
+              <option value="cheap">Pepperoni is $5</option>
+              <option value="mix">Olives is $7</option>
+              <option value="spendy">Sausage is $9</option>
+            </select>
+          </div>
           <br>
-          <select id="cheese">
-            <option value="cheap">Mozzarella</option>
-            <option value="mix">Cheddar & Mozzarella</option>
-            <option value="spendy">Dairy Free</option>
-          </select>
+          <div class="form-control">
+            <select id="cheese">
+              <option value="cheap">Mozzarella is $3</option>
+              <option value="mix">Cheddar & Mozzarella is $5</option>
+              <option value="spendy">Dairy Free is $7</option>
+            </select>
+          </div>
           <br>
-          <select id="size">
-            <option value="cheap">Medium</option>
-            <option value="mix">Large</option>
-            <option value="spendy">Family</option>
-          </select>
+          <div class="form-control">            
+            <select id="size">
+              <option value="cheap">Medium is $9</option>
+              <option value="mix">Large is $10</option>
+              <option value="spendy">Family $12</option>
+            </select>
+          </div>
           <br>
           <button type="submit" class="btn btn-danger">Place your Order!</button>
         </form>

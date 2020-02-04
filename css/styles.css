@@ -1,3 +1,14 @@
 .full-price {
   display: none;
 }
+
+body {
+  background-image: url("../img/pizza-background.jpg");
+  background-size: cover;
+}
+
+.jumbotron {
+  text-align: center;
+  font-style: italic;
+  background-color: #ffe066;
+}
