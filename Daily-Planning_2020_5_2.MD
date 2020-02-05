@@ -1,6 +1,6 @@
 # Daily Planning Doc
 
-##### Date: 2-4-2020
+##### Date: 2-5-2020
 
 ## BEFORE BEGINNING WORK:
 
@@ -25,13 +25,13 @@
 
 #### Please list the names of the lessons you completed today:
 
-*
+* Pizza Independent Project
 
 
 #### Please list the names of the projects you worked on today:
 
-*
+* Pizza Independent Project
 
 #### Please add a link to GitHub repository to all projects you worked on today:
 
-*
+* https://github.com/CommaderDavid/Pizza-Project
