@@ -1,5 +1,19 @@
 .full-price {
   display: none;
+  margin: 20px;
+  border: 6px solid red;
+  padding: 5px;
+  background-image: url("../img/title-background.jpg");
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-weight: bolder;
+}
+
+h2 {
+  font-weight: bolder;
 }
 
 body {
@@ -11,4 +25,28 @@ body {
   text-align: center;
   font-style: italic;
   background-color: #ffe066;
+}
+
+#toppings {
+  margin: 15px;
+  border: 3px solid yellow;
+  padding: 5px;
+  padding-right: 80px;
+  background-color: red;
+  color: white;
+}
+
+#cheese {
+  margin: 15px;
+  border: 3px solid red;
+  padding: 5px;
+  background-color: #ffd633;
+}
+
+#size {
+  margin: 15px;
+  border: 3px solid red;
+  padding: 5px;
+  padding-right: 93px;
+  background-color: #e67300;
 }
