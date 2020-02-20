@@ -6,7 +6,7 @@
 This program is a simulated pizza online order form. The user selects one of three toppings, then one of three cheeses, and then finally the size of the pizza. This program was created using, JavaScript, jQuery, and HTML.
 
 ### BDD Process
-1. User can select 2 toppings, type of cheese, and what size of pizza they want.
+1. User can select a toppings, type of cheese, and what size of pizza they want.
 2. Create constructors for the toppings and size
 3. Use a prototype to determine the price.
 4. Display price due from user.
