@@ -40,7 +40,7 @@ $(document).ready(function() {
     var sizeSelect = $("select#size").val();
 
     var userPizza = new PizzaOrder(toppingSelect, cheeseSelect, sizeSelect);
-    $("#display-price").prepend("$" + userPizza.addPrice());
+    $("#display-price").empty().prepend("$" + userPizza.addPrice() + " is your total price!");
     $(".full-price").show();
   })
 })

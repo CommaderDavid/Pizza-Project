@@ -13,9 +13,9 @@ This program is a simulated pizza online order form. The user selects one of thr
 5. Maybe image of pizza ordered.
 
 ### Setup
-* Copy the repository to you computer
+* Copy the repository to your computer
 * Open the HTML file in a browser of your choosing
-* Choose your topping, cheese, and size and then send in a order!
+* Choose your topping, cheese, and size and then send in an order!
 * Enjoy!
 
 ### Concerns/ Email
